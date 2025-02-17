@@ -26,3 +26,6 @@
 - matplotlib.pyplot
 - numpy
 - scipy.stats
+- seaborn
+- sklearn
+- shap
